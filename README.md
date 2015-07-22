@@ -1,2 +1,3 @@
-# knodeo_scriptella
-Wrapper for scriptella
+# README
+
+A simple wrapper for scriptella.
